@@ -6,6 +6,7 @@
         background-color="#6DF1A4"
         text-color="#000000"
         active-text-color="#5769F4"
+        style="height: 700px"
       >
         <el-menu-item index="1">
           <el-avatar
